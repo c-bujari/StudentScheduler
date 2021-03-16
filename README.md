@@ -3,7 +3,7 @@
 
 This project was originally a team effort, and I can't take the credit for it without acknowledging my group members. The project is kept in its original state at https://github.com/COP4331C/StudentScheduler, where you can also see who worked on it.
 
-This fork will be my attempt to update certain parts of the project as I try to host it in a more permanent manner - the original project had some security issues that need to be fixed before this is possible.
+This fork will be my attempt to update certain parts of the project as I try to host it in a more permanent manner - the original project had some security issues that need to be fixed, and there are some glaring fundamental problems introduced in the last hours of work on the project that we never had the chance to fix.
 
 ---- (original README follows) ----
 
